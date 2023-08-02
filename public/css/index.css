@@ -1,1 +1,129 @@
+/* Урок 4.1 */
 
+.lesson-four-task-one button:hover {
+  color: red;
+  background: yellow;
+}
+
+/* 2 */
+
+.lesson-four-task-two .link:hover + .title {
+  background: green;
+}
+
+/* 3 */
+
+.lesson-four-task-three .link:visited {
+  color: yellow;
+}
+
+/* 4 */
+
+.lesson-four-task-four #sidebar > .link:link {
+  color: red;
+}
+
+/* 5 */
+
+.lesson-four-task-five .btn:active {
+  background: blue;
+}
+
+/* 6 */
+
+.lesson-four-task-six .btn:focus {
+  color: orange;
+  background: orange;
+}
+
+/* 7 */
+
+.lesson-four-task-seven #target:target + a {
+  color: white;
+  background: green;
+}
+
+/* 8 */
+
+.lesson-four-task-eight #checkbox:checked + #target {
+  color: white;
+  background: blue;
+}
+
+/* 9 */
+
+.lesson-four-task-nine p:lang(uk) {
+  color: blue;
+}
+
+/* 10 */
+
+.lesson-four-task-ten input:enabled {
+  color: red;
+  background: yellow;
+}
+
+/* 11 */
+
+.lesson-four-task-eleven input:disabled {
+  background: yellow;
+}
+
+/* 12 */
+
+.lesson-four-task-twelve input:read-write {
+  background: yellow;
+}
+
+/* 13 */
+
+.lesson-four-task-thirteen input:read-only {
+  background: yellow;
+}
+
+/* 14 */
+
+.lesson-four-task-fourteen input:valid {
+  background: green;
+}
+
+.lesson-four-task-fourteen input:invalid {
+  background: red;
+}
+
+/* 15 */
+
+.lesson-four-task-fifteen input:optional {
+  background: red;
+}
+
+/* 16 */
+
+.lesson-four-task-sixteen input:out-of-range {
+  color: red;
+}
+
+/* 17 */
+
+.lesson-four-task-seventeen input:in-range {
+  color: red;
+}
+
+/* 18 */
+
+.lesson-four-task-eighteen input:placeholder-shown {
+  background: red;
+}
+
+/* 19 */
+
+.lesson-four-task-nineteen button:focus-within {
+  color: white;
+  background: yellow;
+}
+
+/* 20 */
+
+.lesson-four-task-twenty input:invalid {
+  background: red;
+}
